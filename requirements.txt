@@ -1,1 +1,7 @@
-streamlit
+streamlit==1.44.1
+pandas
+matplotlib
+python-dotenv
+pinecone==6.0.2
+google-genai==1.9.0
+sentence-transformers
